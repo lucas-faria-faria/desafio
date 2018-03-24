@@ -1,24 +1,39 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+Desafio
 
-* System dependencies
+AppProva Challenge 2018
 
-* Configuration
+University Performance Filter
+To run the application locally, you must have Ruby and Rails installed on your machine.
 
-* Database creation
+Ruby, 2.5
+Rails, 5.1.5
 
-* Database initialization
+Open the terminal and run the commands:
 
-* How to run the test suite
+Ubuntu:
 
-* Services (job queues, cache servers, search engines, etc.)
+Install Ruby:
 
-* Deployment instructions
+$ apt install rbenv
+Install Ruby
 
-* ...
+$ rbenv install 2.5 $ ruby --v
+
+Install Rails:
+
+$ gem install rails -v 5.1.5 $ rails -v
+Rails 5.1.5
+
+After the clone, run the following commands in the project directory:
+
+Install the dependencies of the object:
+
+$ bundle install
+
+Start the local Rails server:
+
+rails s
