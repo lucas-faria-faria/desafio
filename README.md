@@ -9,6 +9,10 @@ AppProva Challenge 2018
 University Performance Filter
 To run the application locally, you must have Ruby and Rails installed on your machine.
 
+Access the app in heroku: https://desafioappprova.herokuapp.com/
+
+Deployment instructions.:
+
 Ruby, 2.5
 Rails, 5.1.5
 
